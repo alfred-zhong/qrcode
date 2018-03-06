@@ -1,5 +1,5 @@
 package main
 
 func open(filepath string) {
-	// do nothing here
+	// do nothing right now
 }

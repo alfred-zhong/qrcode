@@ -9,5 +9,5 @@ install:
   - go get github.com/skip2/go-qrcode
 
 script:
-  - go test ./..
+  - go test ./...
   - make build

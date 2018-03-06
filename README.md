@@ -1,4 +1,6 @@
-# qrcode [![Build Status](https://www.travis-ci.org/alfred-zhong/qrcode.svg?branch=master)](https://www.travis-ci.org/alfred-zhong/qrcode) [![Go Report Card](https://goreportcard.com/badge/github.com/alfred-zhong/qrcode)](https://goreportcard.com/report/github.com/alfred-zhong/qrcode)
+# qrcode
+
+[![Build Status](https://www.travis-ci.org/alfred-zhong/qrcode.svg?branch=master)](https://www.travis-ci.org/alfred-zhong/qrcode) [![Go Report Card](https://goreportcard.com/badge/github.com/alfred-zhong/qrcode)](https://goreportcard.com/report/github.com/alfred-zhong/qrcode)
 
 Tool to create qrcode image(.png) with text
 
